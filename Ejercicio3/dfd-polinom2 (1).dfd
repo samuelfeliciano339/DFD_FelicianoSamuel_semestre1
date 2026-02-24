@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+"Hola bienvenido al solucionador de equaciones cuadraticas"
+4
+1
+51
+"Por favor ingrese los coeficientes en orden a b c"
+5
+1
+1
+a
+5
+1
+1
+b
+5
+1
+1
+c
+6
+1
+7
+preraiz
+11
+b*b - 4*a*c
+7
+0
+1
+11
+preraiz < 0
+6
+2
+4
+raiz
+12
+sqrt preraiz
+5
+denom
+3
+2*a
+6
+2
+2
+x1
+15
+(-b+raiz)/denom
+2
+x2
+15
+(-b-raiz)/denom
+4
+1
+21
+"La primer raiz es: "
+4
+1
+2
+x1
+4
+1
+22
+"La segunda raiz es: "
+4
+1
+2
+x2
+13
+4
+1
+28
+"no tiene soluciones reales"
+13
+4
+1
+37
+"gracias por usar mi solucionador ;)"
+1
